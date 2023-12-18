@@ -54,7 +54,7 @@ h1{
 .maintop{ 
     background-color: white;
     text-align: center;
-    font-family:myfont;
+    font-family:myFont;
     font-size: x-large;
     color:firebrick; ;
 }
@@ -235,7 +235,7 @@ h1{
  
 }
 .touch{
-    font-family:myfont;
+    font-family:myFont;
     color:azure;
     margin: 10%;
     margin-top: 1%;
@@ -363,7 +363,7 @@ a:active{
 
     }
     .GetInTouch{
-        font-family:myfont;
+        font-family:myFont;
         grid-row:1;
         grid-column:1;
         justify-self: center;
@@ -371,7 +371,7 @@ a:active{
      
     }
     .touch{
-        font-family:myfont;
+        font-family:myFont;
         color:azure;
         margin: 10%;
         margin-bottom: 5%;
